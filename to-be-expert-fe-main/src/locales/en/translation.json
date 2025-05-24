@@ -1,0 +1,199 @@
+{
+  "onlineResumeBuilder": "ONLINE RESUME BUILDER",
+  "firstStepTitle": "First step to be expert, build your resume",
+  "createResumeButton": "Create Your Resume",
+  "appLogoAlt": "App Logo",
+  "cvBuilder": "CV Builder",
+  "featurestitle": "Features",
+  "pricing": "Pricing",
+  "aboutUs": "About Us",
+  "getStarted": "Get Started",
+  "register": {
+    "title": "Login/Signup",
+    "googleButton": "Continue with Google account",
+    "linkedinButton": "Continue with Linkedin",
+    "or": "or",
+    "emailLabel": "Email",
+    "emailPlaceholder": "Email",
+    "agreeTo": "I agree to",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "and": "and",
+    "submitButton": "Login/Signup",
+    "sendingOtp": "Sending OTP..."
+  },
+  "errors": {
+    "enterEmail": "Please enter your email",
+    "agreeTerms": "Please agree to the Terms of Service and Privacy Policy",
+    "sendingOtp": "Error sending OTP. Please try again."
+  },
+  "otp": {
+    "verificationTitle": "OTP Verification",
+    "sentEmailPart1": "We have sent the OTP to your email",
+    "changeEmail": "Change?",
+    "resending": "Resending...",
+    "sendAgain": "Send code again",
+    "validating": "Validating...",
+    "loginOrSignup": "Login/Signup",
+    "invalidMessage": "Please enter a valid 5-digit OTP",
+    "validationError": "Error validating OTP:",
+    "validationErrorToast": "Failed to validate OTP.",
+    "resendSuccess": "OTP resent successfully.",
+    "resendError": "Error resending OTP."
+  },
+  "common": {
+    "loading": "Loading..."
+  },
+  "templates": {
+    "chooseYourTemplate": "Choose your template",
+    "jobWinningResumeTemplates": "Job-winning modern resume templates",
+    "allTemplates": "All Templates"
+  },
+  "templatesGrid": {
+    "useThisTemplate": "Use This Template"
+  },
+  "jobDescriptionForm": {
+    "tellUsAboutJob": "Tell us about your job",
+    "writeJobDescriptionTitle": "Write your job description",
+    "placeholder": "Write here...",
+    "nextAddName": "Next - Add your name"
+  },
+  "nameForm": {
+    "tellUsYourName": "Tell us your Name",
+    "writeYourName": "Write your Name",
+    "placeholder": "Write here",
+    "createResumeButton": "Create Your Resume"
+  },
+  "features": {
+    "title": "Features designed to help you win your dream job",
+    "navtitle": "Features",
+    "createPersonalizedCVs": {
+      "title": "Create Personalized CVs",
+      "description": "Effortlessly import data and customize your CV based on your career goals"
+    },
+    "userFriendlyInterface": {
+      "title": "User-Friendly Interface",
+      "description": "Step-by-step guidance to build your CV with ease"
+    },
+    "standOut": {
+      "title": "Stand Out",
+      "description": "Generate a polished, professional CV tailored to your target opportunities"
+    },
+    "getHired": {
+      "title": "Get Hired",
+      "description": "Increase your chances of landing your dream job with a standout CV"
+    }
+  },
+  "customizeCV": {
+    "title": "Customize Your CV to Match Your Career Goals",
+    "subtitle": "Tailor your CV to specific job descriptions, companies, job titles, or university experiences to showcase your qualifications.",
+    "jobDescription": {
+      "title": "Job Description-Based",
+      "description": "Highlight skills and experiences that make you the perfect candidate for the job."
+    },
+    "companyDepartment": {
+      "title": "Company and Department-Specific",
+      "description": "Customize your CV for a particular company and department to demonstrate targeted interest."
+    }
+  },
+  "cvCarousel": {
+    "title": "Create Your Perfect CV with ToBe.expert",
+    "subtitle": "Craft a tailored curriculum vitae that showcases your unique skills and experiences.",
+    "createResumeButton": "Create Your Resume"
+  },
+  "createCvSection": {
+    "title": "Create Your CV Today!",
+    "subtitle": "Build a professional CV that stands out in the job market.",
+    "button": "Create Your Resume"
+  },
+  "faq": {
+    "title": "FAQs",
+    "subtitle": "Find answers to common questions about the CV building process and features of SmartCV Builder.",
+    "question1": {
+      "title": "How does SmartCV Builder work?",
+      "answer": "Find answers to common questions about the CV building process and features of SmartCV Builder."
+    },
+    "question2": {
+      "title": "Is my data secure?",
+      "answer": "Yes, your data is securely stored and protected."
+    },
+    "question3": {
+      "title": "Can I customize my CV?",
+      "answer": "Yes, you can customize various aspects of your CV."
+    },
+    "question4": {
+      "title": "How can I sign up?",
+      "answer": "You can sign up on our website."
+    },
+    "question5": {
+      "title": "Is there a cost?",
+      "answer": "Our service is free with premium options available."
+    }
+  },
+  "contactUs": {
+    "title": "Still have questions?",
+    "subtitle": "Contact our support team for further assistance.",
+    "button": "Contact us"
+  },
+  "ending": {
+    "logoAlt": "Application Logo",
+    "newsletter": "Stay up to date on the latest features and releases by joining our newsletter.",
+    "aboutUs": {
+      "title": "About Us",
+      "ourStory": "Our Story",
+      "contactUs": "Contact Us"
+    },
+    "resources": {
+      "title": "Resources",
+      "faq": "FAQ",
+      "terms": "Terms",
+      "privacy": "Privacy"
+    },
+    "contactUs": {
+      "title": "Contact us",
+      "email": "⁠support@tobe.expert"
+    },
+    "followUs": {
+      "title": "Follow Us",
+      "twitter": "Twitter",
+      "linkedin": "LinkedIn"
+    }
+  },
+  "footer": {
+    "brandName": "ToBe.expert",
+    "allRightsReserved": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookieSettings": "Cookie Settings"
+  },
+  "addMore": "+ Add More",
+  "employmentHistory": "Employment History",
+  "company": "Company",
+  "jobTitle": "Job Title",
+  "startDate": "Start Date",
+  "endDate": "End Date",
+  "location": "Location",
+  "description": "Description",
+  "newEntry": "New Entry",
+  "required": "{{field}} is required",
+  "Websites & Social Links": "Websites & Social Links",
+  "Label": "Label",
+  "link": "Link",
+  "PersonalDetails": "Personal Details",
+  "Full Name": "Full Name",
+  "Email": "Email",
+  "Phone": "Phone",
+  "Country": "Country",
+  "City": "City",
+  "Upload image": "Upload image",
+  "School": "School",
+  "languages": "Languages",
+  "Degree": "Degree",
+  "Education": "Education",
+  "Technical skills": "Technical skills",
+  "Soft skills": "Soft skills",
+  "Add": "Add",
+  "Cancel": "Cancel",
+  "About Me": "About Me",
+  "AddSection": " + Add Section"
+}

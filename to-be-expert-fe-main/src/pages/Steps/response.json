@@ -1,0 +1,98 @@
+{
+  "id": 2,
+  "full_name": "omar shahin",
+  "job_title": "Junior Frontend Developer",
+  "photo": null,
+  "email": "omar@gmail.com",
+  "phone": "+1234567890",
+  "country": "Egypt",
+  "city": "Cairo",
+  "summary": "Highly motivated Junior Frontend Developer with foundational knowledge of React and commitment to collaborative problem solving, sophisticated design, and quality products.",
+  "created_at": "2024-11-25T16:20:03.722155Z",
+  "work_experiences": [
+    {
+      "id": 1,
+      "job_title": "Intern Frontend Developer",
+      "company": "Tech Solutions",
+      "start_date": "2024-06-01",
+      "end_date": null,
+      "current_job": true,
+      "location": "Remote",
+      "description": "Assisted in building and maintaining responsive web applications using React and Redux."
+    },
+    {
+      "id": 2,
+      "job_title": "Freelance Web Developer",
+      "company": "Self Employed",
+      "start_date": "2023-06-01",
+      "end_date": "2024-05-31",
+      "current_job": false,
+      "location": "Remote",
+      "description": "Designed and created user-friendly websites using HTML, CSS and JavaScript."
+    }
+  ],
+  "educations": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "Ain Shams University",
+      "start_date": "2019-09-01",
+      "end_date": "2023-06-01",
+      "description": "Graduated with a focus in front-end web development and specialization in React framework."
+    }
+  ],
+  "technical_skills": [
+    {
+      "name": "HTML"
+    },
+    {
+      "name": "CSS"
+    },
+    {
+      "name": "JavaScript"
+    },
+    {
+      "name": "React"
+    }
+  ],
+  "soft_skills": [
+    {
+      "name": "Collaboration"
+    },
+    {
+      "name": "Problem Solving"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Arabic",
+      "proficiency": "Native"
+    },
+    {
+      "name": "English",
+      "proficiency": "Fluent"
+    }
+  ],
+  "projects": [
+    {
+      "title": "E-commerce Website",
+      "description": "Developed a responsive e-commerce website using React and Redux.",
+      "link": "https://github.com/omarshahin/ecommerce-website"
+    },
+    {
+      "title": "Personal Blog",
+      "description": "Built a personal blog website using HTML, CSS and JavaScript.",
+      "link": "https://omarshahin.com"
+    }
+  ],
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "link": "https://linkedin.com/in/omarshahin"
+    },
+    {
+      "label": "GitHub",
+      "link": "https://github.com/omarshahin"
+    }
+  ],
+  "file_base64": "PCFET0NUWVBFIGh0bWwgUFVCTElDICItLy9XM0MvL0RURCBYSFRNTCAxLjAgU3RyaWN0Ly9FTiIgImh0dHA6Ly93d3cudzMub3JnL1RSL3hodG1sMS9EVEQveGh0bWwxLXN0cmljdC5kdGQiPgo8aHRtbD4KPGhlYWQ+CgoJPHRpdGxlPkpvbmF0aGFuIERvZSB8IFdlYiBEZXNpZ25lciwgRGlyZWN0b3IgfCBuYW1lQHlvdXJkb21haW4uY29tPC90aXRsZT4KCTxtZXRhIGh0dHAtZXF1aXY9ImNvbnRlbnQtdHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04IiAvPgoKCTxtZXRhIG5hbWU9ImtleXdvcmRzIiBjb250ZW50PSIiIC8+Cgk8bWV0YSBuYW1lPSJkZXNjcmlwdGlvbiIgY29udGVudD0iIiAvPgoKCTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgdHlwZT0idGV4dC9jc3MiIGhyZWY9Imh0dHA6Ly95dWkueWFob29hcGlzLmNvbS8yLjcuMC9idWlsZC9yZXNldC1mb250cy1ncmlkcy9yZXNldC1mb250cy1ncmlkcy5jc3MiIG1lZGlhPSJhbGwiIC8+IAoJPGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0L2NzcyIgaHJlZj0icmVzdW1lLmNzcyIgbWVkaWE9ImFsbCIgLz4KCjwvaGVhZD4KPGJvZHk+Cgo8ZGl2IGlkPSJkb2MyIiBjbGFzcz0ieXVpLXQ3Ij4KCTxkaXYgaWQ9ImlubmVyIj4KCQoJCTxkaXYgaWQ9ImhkIj4KCQkJPGRpdiBjbGFzcz0ieXVpLWdjIj4KCQkJCTxkaXYgY2xhc3M9Inl1aS11IGZpcnN0Ij4KCQkJCQk8aDE+Sm9uYXRoYW4gRG9lPC9oMT4KCQkJCQk8aDI+V2ViIERlc2lnbmVyLCBEaXJlY3RvcjwvaDI+CgkJCQk8L2Rpdj4KCgkJCQk8ZGl2IGNsYXNzPSJ5dWktdSI+CgkJCQkJPGRpdiBjbGFzcz0iY29udGFjdC1pbmZvIj4KCQkJCQkJPGgzPjxhIGlkPSJwZGYiIGhyZWY9IiMiPkRvd25sb2FkIFBERjwvYT48L2gzPgoJCQkJCQk8aDM+PGEgaHJlZj0ibWFpbHRvOm5hbWVAeW91cmRvbWFpbi5jb20iPm5hbWVAeW91cmRvbWFpbi5jb208L2E+PC9oMz4KCQkJCQkJPGgzPigzMTMpIC0gODY3LTUzMDk8L2gzPgoJCQkJCTwvZGl2PjwhLS0vLyAuY29udGFjdC1pbmZvIC0tPgoJCQkJPC9kaXY+CgkJCTwvZGl2PjwhLS0vLyAueXVpLWdjIC0tPgoJCTwvZGl2PjwhLS0vLyBoZCAtLT4KCgkJPGRpdiBpZD0iYmQiPgoJCQk8ZGl2IGlkPSJ5dWktbWFpbiI+CgkJCQk8ZGl2IGNsYXNzPSJ5dWktYiI+CgoJCQkJCTxkaXYgY2xhc3M9Inl1aS1nZiI+CgkJCQkJCTxkaXYgY2xhc3M9Inl1aS11IGZpcnN0Ij4KCQkJCQkJCTxoMj5Qcm9maWxlPC9oMj4KCQkJCQkJPC9kaXY+CgkJCQkJCTxkaXYgY2xhc3M9Inl1aS11Ij4KCQkJCQkJCTxwIGNsYXNzPSJlbmxhcmdlIj4KCQkJCQkJCQlQcm9ncmVzc2l2ZWx5IGV2b2x2ZSBjcm9zcy1wbGF0Zm9ybSBpZGVhcyBiZWZvcmUgaW1wYWN0ZnVsIGluZm9tZWRpYXJpZXMuIEVuZXJnaXN0aWNhbGx5IHZpc3VhbGl6ZSB0YWN0aWNhbCBpbml0aWF0aXZlcyBiZWZvcmUgY3Jvc3MtbWVkaWEgY2F0YWx5c3RzIGZvciBjaGFuZ2UuIAoJCQkJCQkJPC9wPgoJCQkJCQk8L2Rpdj4KCQkJCQk8L2Rpdj48IS0tLy8gLnl1aS1nZiAtLT4KCgkJCQkJPGRpdiBjbGFzcz0ieXVpLWdmIj4KCQkJCQkJPGRpdiBjbGFzcz0ieXVpLXUgZmlyc3QiPgoJCQkJCQkJPGgyPlNraWxsczwvaDI+CgkJCQkJCTwvZGl2PgoJCQkJCQk8ZGl2IGNsYXNzPSJ5dWktdSI+CgoJCQkJCQkJCTxkaXYgY2xhc3M9InRhbGVudCI+CgkJCQkJCQkJCTxoMj5XZWIgRGVzaWduPC9oMj4KCQkJCQkJCQkJPHA+QXNzZXJ0aXZlbHkgZXhwbG9pdCB3aXJlbGVzcyBpbml0aWF0aXZlcyByYXRoZXIgdGhhbiBzeW5lcmdpc3RpYyBjb3JlIGNvbXBldGVuY2llcy4JPC9wPgoJCQkJCQkJCTwvZGl2PgoKCQkJCQkJCQk8ZGl2IGNsYXNzPSJ0YWxlbnQiPgoJCQkJCQkJCQk8aDI+SW50ZXJmYWNlIERlc2lnbjwvaDI+CgkJCQkJCQkJCTxwPkNyZWRpYmx5IHN0cmVhbWxpbmUgbWlzc2lvbi1jcml0aWNhbCB2YWx1ZSB3aXRoIG11bHRpZnVuY3Rpb25hbCBmdW5jdGlvbmFsaXRpZXMuCSA8L3A+CgkJCQkJCQkJPC9kaXY+CgoJCQkJCQkJCTxkaXYgY2xhc3M9InRhbGVudCI+CgkJCQkJCQkJCTxoMj5Qcm9qZWN0IERpcmVjdGlvbjwvaDI+CgkJCQkJCQkJCTxwPlByb3ZlbiBhYmlsaXR5IHRvIGxlYWQgYW5kIG1hbmFnZSBhIHdpZGUgdmFyaWV0eSBvZiBkZXNpZ24gYW5kIGRldmVsb3BtZW50IHByb2plY3RzIGluIHRlYW0gYW5kIGluZGVwZW5kZW50IHNpdHVhdGlvbnMuPC9wPgoJCQkJCQkJCTwvZGl2PgoJCQkJCQk8L2Rpdj4KCQkJCQk8L2Rpdj48IS0tLy8gLnl1aS1nZiAtLT4KCgkJCQkJPGRpdiBjbGFzcz0ieXVpLWdmIj4KCQkJCQkJPGRpdiBjbGFzcz0ieXVpLXUgZmlyc3QiPgoJCQkJCQkJPGgyPlRlY2huaWNhbDwvaDI+CgkJCQkJCTwvZGl2PgoJCQkJCQk8ZGl2IGNsYXNzPSJ5dWktdSI+CgkJCQkJCQk8dWwgY2xhc3M9InRhbGVudCI+CgkJCQkJCQkJPGxpPlhIVE1MPC9saT4KCQkJCQkJCQk8bGk+Q1NTPC9saT4KCQkJCQkJCQk8bGkgY2xhc3M9Imxhc3QiPkphdmFzY3JpcHQ8L2xpPgoJCQkJCQkJPC91bD4KCgkJCQkJCQk8dWwgY2xhc3M9InRhbGVudCI+CgkJCQkJCQkJPGxpPkpxdWVyeTwvbGk+CgkJCQkJCQkJPGxpPlBIUDwvbGk+CgkJCQkJCQkJPGxpIGNsYXNzPSJsYXN0Ij5DVlMgLyBTdWJ2ZXJzaW9uPC9saT4KCQkJCQkJCTwvdWw+CgoJCQkJCQkJPHVsIGNsYXNzPSJ0YWxlbnQiPgoJCQkJCQkJCTxsaT5PUyBYPC9saT4KCQkJCQkJCQk8bGk+V2luZG93cyBYUC9WaXN0YTwvbGk+CgkJCQkJCQkJPGxpIGNsYXNzPSJsYXN0Ij5MaW51eDwvbGk+CgkJCQkJCQk8L3VsPgoJCQkJCQk8L2Rpdj4KCQkJCQk8L2Rpdj48IS0tLy8gLnl1aS1nZi0tPgoKCQkJCQk8ZGl2IGNsYXNzPSJ5dWktZ2YiPgoJCgkJCQkJCTxkaXYgY2xhc3M9Inl1aS11IGZpcnN0Ij4KCQkJCQkJCTxoMj5FeHBlcmllbmNlPC9oMj4KCQkJCQkJPC9kaXY+PCEtLS8vIC55dWktdSAtLT4KCgkJCQkJCTxkaXYgY2xhc3M9Inl1aS11Ij4KCgkJCQkJCQk8ZGl2IGNsYXNzPSJqb2IiPgoJCQkJCQkJCTxoMj5GYWNlYm9vazwvaDI+CgkJCQkJCQkJPGgzPlNlbmlvciBJbnRlcmZhY2UgRGVzaWduZXI8L2gzPgoJCQkJCQkJCTxoND4yMDA1LTIwMDc8L2g0PgoJCQkJCQkJCTxwPkludHJpbnNpY2x5IGVuYWJsZSBvcHRpbWFsIGNvcmUgY29tcGV0ZW5jaWVzIHRocm91Z2ggY29ycG9yYXRlIHJlbGF0aW9uc2hpcHMuIFBob3NmbHVvcmVzY2VudGx5IGltcGxlbWVudCB3b3JsZHdpZGUgdm9ydGFscyBhbmQgY2xpZW50LWZvY3VzZWQgaW1wZXJhdGl2ZXMuIENvbnZlbmllbnRseSBpbml0aWF0ZSB2aXJ0dWFsIHBhcmFkaWdtcyBhbmQgdG9wLWxpbmUgY29udmVyZ2VuY2UuIDwvcD4KCQkJCQkJCTwvZGl2PgoKCQkJCQkJCTxkaXYgY2xhc3M9ImpvYiI+CgkJCQkJCQkJPGgyPkFwcGxlIEluYy48L2gyPgoJCQkJCQkJCTxoMz5TZW5pb3IgSW50ZXJmYWNlIERlc2lnbmVyPC9oMz4KCQkJCQkJCQk8aDQ+MjAwNS0yMDA3PC9oND4KCQkJCQkJCQk8cD5Qcm9ncmVzc2l2ZWx5IHJlY29uY2VwdHVhbGl6ZSBtdWx0aWZ1bmN0aW9uYWwgIm91dHNpZGUgdGhlIGJveCIgdGhpbmtpbmcgdGhyb3VnaCBpbmV4cGVuc2l2ZSBtZXRob2RzIG9mIGVtcG93ZXJtZW50LiBDb21wZWxsaW5nbHkgbW9ycGggZXh0ZW5zaXZlIG5pY2hlIG1hcmtldHMgd2l0aCBtaXNzaW9uLWNyaXRpY2FsIGlkZWFzLiBQaG9zZmx1b3Jlc2NlbnRseSBkZWxpdmVyIGJyaWNrcy1hbmQtY2xpY2tzIHN0cmF0ZWdpYyB0aGVtZSBhcmVhcyByYXRoZXIgdGhhbiBzY2FsYWJsZSBiZW5lZml0cy4gPC9wPgoJCQkJCQkJPC9kaXY+CgoJCQkJCQkJPGRpdiBjbGFzcz0iam9iIj4KCQkJCQkJCQk8aDI+TWljcm9zb2Z0PC9oMj4KCQkJCQkJCQk8aDM+UHJpbmNpcGFsIGFuZCBDcmVhdGl2ZSBMZWFkPC9oMz4KCQkJCQkJCQk8aDQ+MjAwNC0yMDA1PC9oND4KCQkJCQkJCQk8cD5JbnRyaW5zaWNseSB0cmFuc2Zvcm0gZmxleGlibGUgbWFudWZhY3R1cmVkIHByb2R1Y3RzIHdpdGhvdXQgZXhjZWxsZW50IGludGVsbGVjdHVhbCBjYXBpdGFsLiBFbmVyZ2lzdGljYWxseSBldmlzY3VsYXRlIG9ydGhvZ29uYWwgYXJjaGl0ZWN0dXJlcyB0aHJvdWdoIGNvdmFsZW50IGFjdGlvbiBpdGVtcy4gQXNzZXJ0aXZlbHkgaW5jZW50aXZpemUgc3RpY2t5IHBsYXRmb3JtcyB3aXRob3V0IHN5bmVyZ2lzdGljIG1hdGVyaWFscy4gPC9wPgoJCQkJCQkJPC9kaXY+CgoKCQkJCQkJCTxkaXYgY2xhc3M9ImpvYiBsYXN0Ij4KCQkJCQkJCQk8aDI+SW50ZXJuYXRpb25hbCBCdXNpbmVzcyBNYWNoaW5lcyAoSUJNKTwvaDI+CgkJCQkJCQkJPGgzPkxlYWQgV2ViIERlc2lnbmVyPC9oMz4KCQkJCQkJCQk8aDQ+MjAwMS0yMDA0PC9oND4KCQkJCQkJCQk8cD5HbG9iYWxseSByZS1lbmdpbmVlciBjcm9zcy1tZWRpYSBzY2hlbWFzIHRocm91Z2ggdmlyYWwgbWV0aG9kcyBvZiBlbXBvd2VybWVudC4gUHJvYWN0aXZlbHkgZ3JvdyBsb25nLXRlcm0gaGlnaC1pbXBhY3QgaHVtYW4gY2FwaXRhbCBhbmQgaGlnaGx5IGVmZmljaWVudCBpbm5vdmF0aW9uLiBJbnRyaW5zaWNseSBpdGVyYXRlIGV4Y2VsbGVudCBlLXRhaWxlcnMgd2l0aCB0aW1lbHkgZS1tYXJrZXRzLjwvcD4KCQkJCQkJCTwvZGl2PgoKCQkJCQkJPC9kaXY+PCEtLS8vIC55dWktdSAtLT4KCQkJCQk8L2Rpdj48IS0tLy8gLnl1aS1nZiAtLT4KCgoJCQkJCTxkaXYgY2xhc3M9Inl1aS1nZiBsYXN0Ij4KCQkJCQkJPGRpdiBjbGFzcz0ieXVpLXUgZmlyc3QiPgoJCQkJCQkJPGgyPkVkdWNhdGlvbjwvaDI+CgkJCQkJCTwvZGl2PgoJCQkJCQk8ZGl2IGNsYXNzPSJ5dWktdSI+CgkJCQkJCQk8aDI+SW5kaWFuYSBVbml2ZXJzaXR5IC0gQmxvb21pbmd0b24sIEluZGlhbmE8L2gyPgoJCQkJCQkJPGgzPkR1YWwgTWFqb3IsIEVjb25vbWljcyBhbmQgRW5nbGlzaCAmbWRhc2g7IDxzdHJvbmc+NC4wIEdQQTwvc3Ryb25nPiA8L2gzPgoJCQkJCQk8L2Rpdj4KCQkJCQk8L2Rpdj48IS0tLy8gLnl1aS1nZiAtLT4KCgoJCQkJPC9kaXY+PCEtLS8vIC55dWktYiAtLT4KCQkJPC9kaXY+PCEtLS8vIHl1aS1tYWluIC0tPgoJCTwvZGl2PjwhLS0vLyBiZCAtLT4KCgkJPGRpdiBpZD0iZnQiPgoJCQk8cD5Kb25hdGhhbiBEb2UgJm1kYXNoOyA8YSBocmVmPSJtYWlsdG86bmFtZUB5b3VyZG9tYWluLmNvbSI+bmFtZUB5b3VyZG9tYWluLmNvbTwvYT4gJm1kYXNoOyAoMzEzKSAtIDg2Ny01MzA5PC9wPgoJCTwvZGl2PjwhLS0vLyBmb290ZXIgLS0+CgoJPC9kaXY+PCEtLSAvLyBpbm5lciAtLT4KCgo8L2Rpdj48IS0tLy8gZG9jIC0tPgoKCjwvYm9keT4KPC9odG1sPgoK"
+}

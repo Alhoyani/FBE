@@ -1,0 +1,200 @@
+{
+  "onlineResumeBuilder": "منشئ السيرة الذاتية عبر الإنترنت",
+  "firstStepTitle": "الخطوة الأولى لتصبح خبيرًا، قم بإنشاء سيرتك الذاتية",
+  "createResumeButton": "قم بإنشاء سيرتك الذاتية",
+  "appLogoAlt": "شعار التطبيق",
+  "cvBuilder": "منشئ السيرة الذاتية",
+  "pricing": "التسعير",
+
+  "aboutUs": "معلومات عنا",
+  "getStarted": "ابدأ الآن",
+  "register": {
+    "title": "تسجيل الدخول / الاشتراك",
+    "googleButton": "التسجيل باستخدام حساب Google",
+    "linkedinButton": "التسجيل باستخدام Linkedin",
+    "or": "أو",
+    "emailLabel": "البريد الإلكتروني",
+    "emailPlaceholder": "البريد الإلكتروني",
+    "agreeTo": "أوافق على",
+    "terms": "شروط الخدمة",
+    "privacy": "سياسة الخصوصية",
+    "and": "و",
+    "submitButton": "تسجيل الدخول / الاشتراك",
+    "sendingOtp": "جارٍ إرسال OTP..."
+  },
+  "otp": {
+    "verificationTitle": "التحقق برمز OTP",
+    "sentEmailPart1": "لقد أرسلنا رمز التحقق إلى بريدك الإلكتروني",
+    "changeEmail": "تغيير؟",
+    "resending": "جارٍ إعادة الإرسال...",
+    "sendAgain": "أرسل الرمز مرة أخرى",
+    "validating": "جارٍ التحقق...",
+    "loginOrSignup": "تسجيل الدخول/إنشاء حساب",
+    "invalidMessage": "يرجى إدخال رمز تحقق من 5 أرقام",
+    "validationError": "حدث خطأ أثناء التحقق من الرمز:",
+    "validationErrorToast": "فشل في التحقق من الرمز.",
+    "resendSuccess": "تمت إعادة إرسال الرمز بنجاح.",
+    "resendError": "حدث خطأ في إعادة إرسال الرمز."
+  },
+  "common": {
+    "loading": "جارٍ التحميل..."
+  },
+  "templatesGrid": {
+    "useThisTemplate": "استخدم هذا القالب"
+  },
+  "templates": {
+    "chooseYourTemplate": "اختر النموذج الخاص بك",
+    "jobWinningResumeTemplates": "نماذج سيرة ذاتية حديثة تناسب الوظائف",
+    "allTemplates": "جميع النماذج"
+  },
+  "jobDescriptionForm": {
+    "tellUsAboutJob": "أخبرنا عن وظيفتك",
+    "writeJobDescriptionTitle": "اكتب وصف وظيفتك",
+    "placeholder": "اكتب هنا...",
+    "nextAddName": "التالي - أضف اسمك"
+  },
+  "nameForm": {
+    "tellUsYourName": "أخبرنا باسمك",
+    "writeYourName": "اكتب اسمك",
+    "placeholder": "اكتب هنا",
+    "createResumeButton": "أنشئ سيرتك الذاتية"
+  },
+  "errors": {
+    "enterEmail": "يرجى إدخال بريدك الإلكتروني",
+    "agreeTerms": "يرجى الموافقة على شروط الخدمة وسياسة الخصوصية",
+    "sendingOtp": "حدث خطأ أثناء إرسال OTP. حاول مرة أخرى."
+  },
+
+  "features": {
+    "title": "ميزات مصممة لمساعدتك في الحصول على وظيفتك المثالية",
+    "navtitle": "الميزات",
+    "createPersonalizedCVs": {
+      "title": "إنشاء سير ذاتية مخصصة",
+      "description": "قم باستيراد البيانات بسهولة وخصص سيرتك الذاتية بناءً على أهدافك المهنية"
+    },
+    "userFriendlyInterface": {
+      "title": "واجهة سهلة الاستخدام",
+      "description": "إرشادات خطوة بخطوة لبناء سيرتك الذاتية بسهولة"
+    },
+    "standOut": {
+      "title": "تميز",
+      "description": "قم بإنشاء سيرة ذاتية احترافية ومصقولة تناسب الفرص المستهدفة"
+    },
+    "getHired": {
+      "title": "احصل على وظيفة",
+      "description": "قم بزيادة فرصك في الحصول على وظيفتك المثالية بسيرة ذاتية مميزة"
+    }
+  },
+  "customizeCV": {
+    "title": "قم بتخصيص سيرتك الذاتية لتتناسب مع أهدافك المهنية",
+    "subtitle": "قم بتعديل سيرتك الذاتية لتناسب أوصاف الوظائف والشركات والمسميات الوظيفية أو تجارب الجامعة لتبرز مؤهلاتك.",
+    "jobDescription": {
+      "title": "بناءً على وصف الوظيفة",
+      "description": "قم بإبراز المهارات والخبرات التي تجعلك المرشح المثالي للوظيفة."
+    },
+    "companyDepartment": {
+      "title": "الشركة والقسم المحدد",
+      "description": "خصص سيرتك الذاتية لشركة أو قسم معين لإظهار اهتمام مستهدف."
+    }
+  },
+  "cvCarousel": {
+    "title": "قم بإنشاء سيرتك الذاتية المثالية مع تو بي اكسبرت",
+    "subtitle": "قم بصياغة سيرة ذاتية مخصصة تعرض مهاراتك وخبراتك الفريدة.",
+    "createResumeButton": "أنشئ سيرتك الذاتية"
+  },
+  "createCvSection": {
+    "title": "أنشئ سيرتك الذاتية اليوم!",
+    "subtitle": "قم ببناء سيرة ذاتية احترافية تميزك في سوق العمل.",
+    "button": "أنشئ سيرتك الذاتية"
+  },
+  "faq": {
+    "title": "الأسئلة الشائعة",
+    "subtitle": "اعثر على إجابات للأسئلة الشائعة حول عملية إنشاء السيرة الذاتية وميزات SmartCV Builder.",
+    "question1": {
+      "title": "كيف يعمل SmartCV Builder؟",
+      "answer": "اعثر على إجابات للأسئلة الشائعة حول عملية إنشاء السيرة الذاتية وميزات SmartCV Builder."
+    },
+    "question2": {
+      "title": "هل بياناتي آمنة؟",
+      "answer": "نعم، بياناتك مخزنة بشكل آمن ومحمي."
+    },
+    "question3": {
+      "title": "هل يمكنني تخصيص سيرتي الذاتية؟",
+      "answer": "نعم، يمكنك تخصيص مختلف الجوانب في سيرتك الذاتية."
+    },
+    "question4": {
+      "title": "كيف يمكنني التسجيل؟",
+      "answer": "يمكنك التسجيل عبر موقعنا الإلكتروني."
+    },
+    "question5": {
+      "title": "هل هناك تكلفة؟",
+      "answer": "خدمتنا مجانية مع خيارات مميزة متاحة."
+    }
+  },
+  "contactUs": {
+    "title": "ما زلت بحاجة إلى المساعدة؟",
+    "subtitle": "اتصل بفريق الدعم للحصول على مزيد من المساعدة.",
+    "button": "اتصل بنا"
+  },
+  "ending": {
+    "logoAlt": "شعار التطبيق",
+    "newsletter": "ابقَ على اطلاع بآخر الميزات والإصدارات عن طريق الانضمام إلى نشرتنا الإخبارية.",
+    "aboutUs": {
+      "title": "معلومات عنا",
+      "ourStory": "قصتنا",
+      "contactUs": "اتصل بنا"
+    },
+    "resources": {
+      "title": "الموارد",
+      "faq": "الأسئلة الشائعة",
+      "terms": "الشروط",
+      "privacy": "الخصوصية"
+    },
+    "contactUs": {
+      "title": "اتصل بنا",
+      "email": "⁠support@tobe.expert"
+    },
+    "followUs": {
+      "title": "تابعنا",
+      "twitter": "تويتر",
+      "linkedin": "لينكد إن"
+    }
+  },
+  "footer": {
+    "brandName": "ToBe.expert",
+    "allRightsReserved": "جميع الحقوق محفوظة.",
+    "privacyPolicy": "سياسة الخصوصية",
+    "termsOfService": "شروط الخدمة",
+    "cookieSettings": "إعدادات ملفات تعريف الارتباط"
+  },
+  "addMore": "+ أضف المزيد",
+  "employmentHistory": "تاريخ التوظيف",
+  "company": "الشركة",
+  "jobTitle": "المسمى الوظيفي",
+  "startDate": "تاريخ البدء",
+  "endDate": "تاريخ الانتهاء",
+  "location": "الموقع",
+  "description": "الوصف",
+  "newEntry": "إدخال جديد",
+  "required": "حقل {{field}} مطلوب",
+  "Websites & Social Links": "المواقع والروابط الاجتماعية",
+  "Label": "الاسم",
+  "link": "الرابط",
+  "languages": "اللغات",
+  "PersonalDetails": "التفاصيل الشخصية",
+  "Full Name": "الاسم الكامل",
+  "Email": "البريد الإلكتروني",
+  "Phone": "الهاتف",
+  "Country": "البلد",
+  "City": "المدينة",
+  "Upload image": "تحميل الصورة",
+  "School": "المدرسة",
+  "Degree": "الدرجة",
+  "Education": "التعليم",
+  "Technical skills": "المهارات الفنية",
+  "Soft skills": "المهارات الإدارية",
+  "Add": "إضافة",
+  "Cancel": "إلغاء",
+  "About Me": "معلومات عني",
+  "AddSection": " + إضافة قسم"
+}

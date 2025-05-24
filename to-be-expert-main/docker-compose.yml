@@ -1,0 +1,28 @@
+services:
+  backend:
+    build: .
+    container_name: toBeExpertBackend
+    command: >
+      sh -c "python manage.py makemigrations accounts home order payment resume templates_app &&
+            python manage.py migrate &&
+            python manage.py createsuperuser_if_not_exists &&
+            python manage.py collectstatic --noinput &&
+            gunicorn backend.wsgi:application --bind 0.0.0.0:8099 --workers 9 --timeout 120"
+    volumes:
+      - .:/backend
+      - ./static:/app/static
+      - ./media:/app/media
+    ports:
+      - "8099:8099"
+    restart: on-failure
+
+  celery:
+    container_name: toBeExpertCelery
+    build: .
+    command: celery -A backend worker --loglevel=info
+    volumes:
+      - .:/code
+    restart: on-failure
+  
+volumes:
+  backend:

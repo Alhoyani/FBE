@@ -1,0 +1,61 @@
+{
+  "id": 2,
+  "full_name": "omar shahin",
+  "job_title": "Junior Frontend Developer",
+  "photo": null,
+  "email": "omar@gmail.com",
+  "phone": "+1234567890",
+  "country": "Egypt",
+  "city": "Cairo",
+  "summary": "Highly motivated Junior Frontend Developer with foundational knowledge of React and commitment to collaborative problem solving, sophisticated design, and quality products.",
+  "created_at": "2024-11-25T16:20:03.722155Z",
+  "work_experiences": [
+    {
+      "job_title": "Intern Frontend Developer",
+      "company": "Tech Solutions",
+      "start_date": "2024-06-01",
+      "end_date": null,
+      "current_job": true,
+      "location": "Remote",
+      "description": "Assisted in building and maintaining responsive web applications using React and Redux."
+    }
+  ],
+  "educations": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "school": "Ain Shams University",
+      "start_date": "2019-09-01",
+      "end_date": "2023-06-01",
+      "description": "Graduated with a focus in front-end web development and specialization in React framework."
+    }
+  ],
+  "technical_skills": [
+    {
+      "name": "HTML"
+    }
+  ],
+  "soft_skills": [
+    {
+      "name": "Collaboration"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Arabic",
+      "proficiency": "Native"
+    }
+  ],
+  "projects": [
+    {
+      "title": "E-commerce Website",
+      "description": "Developed a responsive e-commerce website using React and Redux.",
+      "link": "https://github.com/omarshahin/ecommerce-website"
+    }
+  ],
+  "social_links": [
+    {
+      "label": "LinkedIn",
+      "link": "https://linkedin.com/in/omarshahin"
+    }
+  ]
+}
